@@ -1,65 +1,44 @@
-# CompTIA Network+ (N10-009) Study Notes
+# CompTIA Network+ (N10-009) 学习记录
 
-Personal study notes for CompTIA Network+ certification.
+現在 Network+ の勉強中。2025年12月28日に受験予定。
 
-**Exam Date:** December 28, 2025  
-**Current Progress:** Module 33/78 (42%)  
-**Study Resource:** Professor Messer's Network+ Course
-
----
-
-## Progress Tracker
-
-### Domain 1: Networking Concepts (M10-M31)
-Status: ✅ Completed (Module 33)
-
-### Domain 2: Network Implementation (M32-M45)
-Status: 🔄 In Progress
-
-### Domain 3: Network Operations (M46-M58)
-Status: ⏳ Not Started
-
-### Domain 4: Network Security (M59-M71)
-Status: ⏳ Not Started
-
-### Domain 5: Network Troubleshooting (M72-M78)
-Status: ⏳ Not Started
+**学習進捗:** Module 33/78 (42%)  
+**教材:** Professor Messer's N10-009 Course
 
 ---
 
-## Study Resources
+## 進捗状況
 
-**Main Resources:**
-- Professor Messer's Network+ Course (YouTube)
-- Jason Dion Practice Tests (Udemy)
-- CompTIA Official Study Guide
-
-**Lab Practice:**
-- Packet Tracer
-- GNS3
-- Wireshark
-- Nmap
-
-**Practice Questions:**
-- ExamCompass (Free)
-- Professor Messer Practice Exams
+| Domain | 内容 | 状態 |
+|--------|------|------|
+| 1 | Networking Concepts | ✅ 完了 (M10-M31) |
+| 2 | Network Implementation | 🔄 学習中 (M32/M45) |
+| 3 | Network Operations | ⏸️ 未着手 |
+| 4 | Network Security | ⏸️ 未着手 |
+| 5 | Network Troubleshooting | ⏸️ 未着手 |
 
 ---
 
-## Notes
+## 使っている教材
 
-Detailed notes are maintained in Notion for personal use. This repository tracks progress and key concepts.
+**メイン:**
+- Professor Messer の無料動画コース (YouTube)
+- Jason Dion の模擬試験 (Udemy)
+
+**ラボ練習:**
+- Packet Tracer でネットワーク構成の練習
+- Wireshark でパケット解析
+- 自分の Proxmox 環境で実際に検証
+
+**メモ:**
+詳しい学習ノートは Notion で管理してる。ここでは進捗だけ追跡。
 
 ---
 
-## Study Schedule
+## 学習ペース
 
-- **Daily:** 2-3 hours video + practice
-- **Weekly:** Lab exercises and hands-on practice
-- **Monthly:** Practice exams and review
+- **平日:** 毎日 2-3 時間動画視聴
+- **週末:** ラボ練習 + 復習
+- **目標:** 12月28日までに合格
 
-Target: Pass exam by December 28, 2025
-
----
-
-Last Updated: November 21, 2025
+最終更新: 2025年11月21日
